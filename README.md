@@ -1,0 +1,2 @@
+# Temperature-Converter
+ A temperature converter is a useful tool that allows you to easily convert between different units of temperature, such as from Celsius to Fahrenheit or from Kelvin to Celsius. This can be done using conversion formulas, which are mathematical relationships between two units. The converter is particularly helpful when working with measurements from different measurement systems. For example, to convert from Celsius to Fahrenheit, you can use the formula F = (C * 9/5) + 32. To convert from Kelvin to Celsius, you can use the formula C = K - 273.15.
